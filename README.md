@@ -15,6 +15,9 @@ In the first phase we intend to help teacher in their daily tasks but we are dev
 * Student progress tracker
 * Class management
 
+# Version
+this version on guhub is not a full version of claid and you can not use of this as a full product , for more detail please contact with me and getting more know about this project.
+
 # Screenshots
 ![claid start page](https://user-images.githubusercontent.com/71442440/134240186-52f857d2-f5e8-478a-ae58-ee647d949c7e.png)\
 ![claid main page](https://user-images.githubusercontent.com/71442440/134240308-299a3a32-7f47-4df6-9220-f93b055c13a7.png)\
