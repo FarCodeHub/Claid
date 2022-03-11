@@ -1,4 +1,4 @@
-# About Claid
+# About Claid [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_Claid&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_Claid) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_Claid&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_Claid) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_Claid&metric=bugs)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_Claid)
 
 Claid is mobile app to help teachers and works as teacher assitant to improve the education process
 
